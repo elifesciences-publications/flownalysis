@@ -1,3 +1,6 @@
+This code is associated with the paper from Triandafillou et al., "Transient Intracellular Acidification Regulates the Core Transcriptional Heat Shock Response". eLife, 2020. http://doi.org/10.7554/eLife.54880
+
+
 # Functions for reading and analyzing flow cytometry data
 
 This package contains helper functions to read in and analyze data in the standard .fcs format (3.0 or 3.1). Ther
